@@ -1,5 +1,4 @@
 # Run this file from terminal using "python <file name>"
-#test
 
 import questionary
 import random
